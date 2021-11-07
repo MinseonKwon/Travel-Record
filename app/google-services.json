@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244740123180",
+    "firebase_url": "https://travelrecord-4ffc6-default-rtdb.firebaseio.com",
+    "project_id": "travelrecord-4ffc6",
+    "storage_bucket": "travelrecord-4ffc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244740123180:android:4434715c3013533135bf89",
+        "android_client_info": {
+          "package_name": "com.example.travelrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244740123180-5r2248f6k0njifqglo3jo0g7sa1t1a5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelrecord",
+            "certificate_hash": "06e070f443809242b4db7a7bf0b9c5007d283b4c"
+          }
+        },
+        {
+          "client_id": "244740123180-m5255um34oeobt0i06lspdbbbd2duefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojIx59ipHOL8O3Gtzv7PYb1KUy4UL7Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244740123180-m5255um34oeobt0i06lspdbbbd2duefe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

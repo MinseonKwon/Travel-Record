@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/border.xml" value="0.2" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/chart_item_background.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/circle.xml" value="0.2" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/edge.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/fifth_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/first_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/firstbackground.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/fourth_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/horizon_border.xml" value="0.2" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/record_Launcher_background.xml" value="1.6" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/roundcorner.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/rounder.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/second_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/select.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/sixth_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/drawable/third_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_chart.xml" value="0.24923076923076923" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_main.xml" value="0.3495440729483283" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_register.xml" value="0.253125" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_show_picture.xml" value="0.264" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/add_price.xml" value="0.264" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/chart_item.xml" value="0.536" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/date_item.xml" value="0.536" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/edit_price.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/empty_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/first_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/item_category.xml" value="0.16" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/list_country.xml" value="0.24923076923076923" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/list_item.xml" value="0.4" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/list_price.xml" value="0.24923076923076923" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/list_search.xml" value="0.24923076923076923" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/price_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/price_item.xml" value="0.536" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/register.xml" value="0.253125" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/search_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/set_budget.xml" value="0.4" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/layout/set_profile.xml" value="0.264" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/menu/country_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/menu/date_menu.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/menu/edit_price_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/menu/price_menu.xml" value="0.1" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/mipmap-anydpi-v26/record_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/mipmap-anydpi-v26/record_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SAMSUNG/AndroidStudioProjects/TravelRecord/app/src/main/res/xml/network_config.xml" value="0.10277777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

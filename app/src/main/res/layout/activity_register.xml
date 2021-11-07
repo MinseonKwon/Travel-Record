@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/travel"
+    tools:context=".RegisterActivity">
+
+    <TextView
+        android:id="@+id/tx_travel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="Travel Record"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:textSize="@android:dimen/app_icon_size"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tl_name"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="8dp"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tx_travel">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_name"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:background="#00FFFFFF"
+            android:ems="10"
+            android:hint="이름"
+            android:inputType="textPersonName"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tl_emailId"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/tl_name"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/tl_name"
+        app:layout_constraintTop_toBottomOf="@+id/tl_name">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_emailId"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:background="#00FFFFFF"
+            android:ems="10"
+            android:hint="이메일 아이디"
+            android:inputType="textEmailAddress"
+            android:textColor="#FFFFFF"
+            android:textColorHint="@android:color/background_light"
+            android:textStyle="bold" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tl_password"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/tl_emailId"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/tl_emailId"
+        app:layout_constraintTop_toBottomOf="@+id/tl_emailId">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_password"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:background="#00FFFFFF"
+            android:ems="10"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:privateImeOptions="defaultInputmode=korean"
+            android:textColor="#FFFFFF"
+            android:textColorHint="@android:color/background_light"
+            android:textStyle="bold" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:background="#61808080"
+        android:text="회원가입"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/tl_password"
+        app:layout_constraintStart_toStartOf="@+id/tl_password"
+        app:layout_constraintTop_toBottomOf="@+id/tl_password" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

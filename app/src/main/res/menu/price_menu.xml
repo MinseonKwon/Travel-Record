@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/chart"
+        android:icon="@drawable/chart"
+        android:title="chart"
+        app:showAsAction="ifRoom"
+        />
+    <group>
+        <item
+            android:id="@+id/show_profile"
+            android:title="프로필 보기"/>
+        <item
+            android:id="@+id/delete_travel"
+            android:title="이 여행 지우기"/>
+        <item
+            android:id="@+id/price_logout"
+            android:title="로그아웃"/>
+    </group>
+
+</menu>
