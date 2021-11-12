@@ -63,8 +63,6 @@ public class CountryList extends AppCompatActivity{
     private SharedPreferences id; //기본 정보들을 저장하기위한 변수
     private ArrayList<CountryList.Item> rateList = new ArrayList<>(); //환율 정보 List
 
-    private long backBtnTime = 0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -165,7 +163,6 @@ public class CountryList extends AppCompatActivity{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
 
     }
 
@@ -317,7 +314,7 @@ public class CountryList extends AppCompatActivity{
     private class SortByDate implements Comparator<CountryData>{
         @Override
         public int compare(CountryData t1, CountryData t2) {
-            return t1.getStartDate().compareTo(t2.getStartDate());
+            return t1.getStartDate().compareTo(t2.getStartDate())*(-1);
         }
     }
 
